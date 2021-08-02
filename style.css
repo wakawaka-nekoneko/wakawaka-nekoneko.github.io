@@ -1,17 +1,4 @@
-h1 {
-    color: rgb(255, 130, 130);
-    background-color: #aaaaf8;
+h1{
+    color: rgb(53, 240, 240);
+    text-align: center;
     }
-    body {
-        background-color: rgb(103, 172, 103);
-        }
-        li{
-            list-style:none;
-        }
-        ul{
-            display:flex;
-            }
-            li{
-                list-style:none;
-                padding:20px 30px 20px 30px;
-                }
